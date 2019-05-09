@@ -120,22 +120,22 @@ p { line-height: 2; }
 
 input::-webkit-input-placeholder,
 textarea::-webkit-input-placeholder {
-	color: #4286ab !important;
+	color: #424649 !important;
 }
  
 input:-moz-placeholder,
 textarea:-moz-placeholder { /* Firefox 18- */
-	color: #4286ab !important;  
+	color: #424649 !important;  
 }
  
 input::-moz-placeholder,
 textarea::-moz-placeholder {  /* Firefox 19+ */
-	color: #4286ab !important;  
+	color: #424649 !important;  
 }
  
 input:-ms-input-placeholder,
 textarea:-ms-input-placeholder {  
-	color: #4286ab !important;  
+	color: #424649!important;  
 }
 
 .tm-contact-right {	padding-left: 15px; }
